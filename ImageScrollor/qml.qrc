@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/1.jfif</file>
+        <file>ScrollImage.qml</file>
+    </qresource>
+</RCC>
